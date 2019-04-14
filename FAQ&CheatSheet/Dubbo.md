@@ -1,4 +1,4 @@
-#DUBBO FAQ:
+#DUBBO:
 ---
 		1.使用RPC调用时,注意配置timeout时间一般(60000-60s)
 		2.设计DUBBO client参数时，注意dubbo/java版本,可能会遇到版本不匹配，造成LocalDate,Enum,调用会出错的情况
